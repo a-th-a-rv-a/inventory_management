@@ -228,7 +228,7 @@ final_data AS (
 )
 SELECT * FROM final_data;
 
--- Query to check inserted data
+
 SELECT *
 FROM corrected_inventory
 ORDER BY `Date` ASC, `Store ID`, `Product ID`, `Region`;
