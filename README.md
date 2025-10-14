@@ -85,7 +85,8 @@ ________________________________________________________________________________
 
 Since all the codes are derived from one dataset, you can easily use this project for your own business needs. Here's how:
 1. Clone the repository  
-2. Make your own dataset in the following format (you can also refer to the inventory_forecasting.csv file): Date |	Store ID | Product ID | Category | Region |	Inventory Level |	Units Sold | Units Ordered |	Demand Forecast |	Price	Discount | Weather Condition | Holiday/Promotion | Competitor Pricing |	Seasonality 
+2. Make your own dataset in the following format (you can also refer to the inventory_forecasting.csv file):  
+| Date | Store ID | Product ID | Category | Region | Inventory Level | Units Sold | Units Ordered | Demand Forecast | Price Discount | Weather Condition | Holiday/Promotion | Competitor Pricing | Seasonality |
 3. Run the codes in the following recommended order: urban_retail_data_cleaning.sql --> urban_retail_product_analysis.sql --> urban_retail_total_product_stock.sql --> urban_retail_forward_filling.sql --> urban_retail_fast_vs_slow.sql --> urban_retail_inventory_turnover.sql --> uban_retail_demand_forecast.sql --> urban_retail_low_stock.sql --> urban_retail_reorder_point_estimation.sql --> urban_retail_stock_adjustments.sql --> urban_retail_supplier_inconsistency.sql 
 4. Use the derived insights for your own business needs as per your requirements. 
 
