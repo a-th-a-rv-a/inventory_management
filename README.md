@@ -68,7 +68,7 @@ Using this repository you can:
 _________________________________________________________________________________________________________________
 
 
-## 📈 Business Impact
+## Business Impact
 
 This solution helps Urban Retail Co. or any business, in general, to:
 
